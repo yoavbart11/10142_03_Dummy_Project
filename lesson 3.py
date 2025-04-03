@@ -176,6 +176,8 @@ def q17():
             res = DAY_1
     print(res)
 
+def q18():
+
 def main():
     #q1()
     #q2()
